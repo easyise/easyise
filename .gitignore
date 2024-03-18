@@ -1,0 +1,4 @@
+.DS_Store
+embeddingds/datasets/*
+embeddings/datasets/*
+embeddings/.ipynb_checkpoints
